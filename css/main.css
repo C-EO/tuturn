@@ -41,7 +41,7 @@
 /** ====== Sass function ====== **/
 /** ====== Sass Placeholder ====== **/
 /** --- Transition placeholder --- **/
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&amp;family=Outfit:wght@400;500;600;700&amp;family=Gochi+Hand&amp;display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&family=Outfit:wght@400;500;600;700&family=Gochi+Hand&display=swap");
 .tu-posttag li a, .tu-serviceslist > li > a, .tu-accordionwrap i[aria-expanded=true]::before,
 .tu-expinfo i[aria-expanded=true]::before,
 .tu-faqswrap i[aria-expanded=true]::before, .tu-thumbnails_content > i, .tu-thumbnails_content figure, .tu-thumbnails_content, .tu-thumbnails_action, .tu-side-tabs .nav-item .nav-link::before, .tu-labels li span a, .tu-labels li span, .tu-planlist, .tu-listinginfo, .tu-readmorebtn, .tu-filter-btn a, .tu-articleitem, .tu-popsearchitem li::after, .tu-popsearchitem li a, .tu-featureitem, .tu-eduplatform a, .tu-categories_title::after, .tu-categories_title, .tu-categories_content, .tu-splidearrow .splide__arrow, .tu-splidedots .splide__pagination__page, .tu-instructors_footer-right a, .tu-instructors, .tu-footercopyright_list li a, .tu-footerlist li a em, .tu-footerlist li a, .menu-item-has-children > a:after, .sub-menu li a, .tu-navbar .navbar-collapse .navbar-nav > .nav-item > a::before, .tu-check label:before, .select2-container--default .select2-selection--single, .select2-results__option, .tu-primbtn::before,
